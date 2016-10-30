@@ -1,0 +1,21 @@
+{
+  "name": "angular-contact",
+  "description": "contact app",
+  "main": "index.html",
+  "authors": [
+    "ali raza"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+ "dependencies": {
+     
+ },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
